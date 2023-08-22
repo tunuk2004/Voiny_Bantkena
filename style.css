@@ -1,0 +1,60 @@
+body{
+    background-image: url(./баткен\ 4.jpg);
+    background-size: cover;
+    border: 7px solid rgb(255, 255, 255);
+    margin: o;
+    padding: 0;
+    height: auto;
+    display: flex;
+    justify-content: center;
+
+}
+
+
+img{
+    width: 190px;
+    border: 4px solid;
+    border-radius: 50px 50px;
+}
+
+h2{
+    color: rgb(255, 255, 255);
+    
+}
+b{
+    color: white;
+    font-weight: lighter;
+    
+}
+
+.main{
+    color: aliceblue;
+    flex-wrap: wrap;
+    align-items: center;
+    text-align: center;
+    margin-top: 50px;
+}
+.links{
+    text-align: center;
+    margin-top: 20px;
+    padding: 20px;
+    border:1px solid rgb(255, 255, 255);
+    border-width: 2px;
+    display: block;
+    margin-left: auto;
+    border-radius: 10px;
+    max-width: 320px;
+    transition: 2s;
+}
+.links:hover {
+    background-color: rgb(255, 255, 255) (113,204,204);
+    transition: 2s;
+}
+a {
+text-decoration: none;
+color: azure;
+font-weight: bold;
+}
+a:hover {
+color: rgb(0, 0, 0);
+}
